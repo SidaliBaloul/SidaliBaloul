@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> 👋 Sidali Baloul</h1>
-<h3>Junior Backend Developer (.NET)</h3>
+<h3> Backend Developer (.NET)</h3>
 
 <p>
 💻 Passionate about building secure and scalable backend systems using ASP.NET Core <br>
