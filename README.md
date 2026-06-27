@@ -21,7 +21,7 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat)
 
-###🎨 Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
